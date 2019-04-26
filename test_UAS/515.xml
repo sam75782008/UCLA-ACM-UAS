@@ -1,0 +1,1 @@
+<annotation><filename>515.jpg</filename><source><database>Unknown</database></source><size><width>600</width><height>600</height><depth>3</depth></size><segmented>0</segmented><object><name>Cross</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>372</xmin><ymin>250</ymin><xmax>472</xmax><ymax>350</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><filename>51.jpg</filename><source><database>Unknown</database></source><size><width>600</width><height>600</height><depth>3</depth></size><segmented>0</segmented><object><name>Triangle</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>451</xmin><ymin>310</ymin><xmax>551</xmax><ymax>410</ymax></bndbox></object></annotation>
